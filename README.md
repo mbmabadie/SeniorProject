@@ -1,2 +1,2 @@
 # SeniorProject
-English Learning WenSite based on Nominal group theories.
+English Learning WebSite based on Nominal group theories.
